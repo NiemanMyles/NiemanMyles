@@ -32,4 +32,3 @@ Here are some ideas to get you started:
 
 ---
 
-📌 [List of my PE injection demos](https://gist.github.com/hasherezade/e6daa4124fab73543497b6d1295ece10)
