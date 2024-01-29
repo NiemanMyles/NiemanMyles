@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiemanMyles&theme=tokyonight" />
 </a>
 <br/>
-<a href="https://twitter.com/ha1ks">
+<a href="https://twitter.com/_ha1ks">
   <img src="https://img.shields.io/twitter/follow/ha1ks?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
 
